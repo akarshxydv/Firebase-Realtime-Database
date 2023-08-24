@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "443460084839",
+    "project_id": "login-signup-frd-13f8e",
+    "storage_bucket": "login-signup-frd-13f8e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:443460084839:android:9490a2e9fbb1ebda3ba0c2",
+        "android_client_info": {
+          "package_name": "com.example.loginsignupfrd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "443460084839-i02alggdl8nb7hekirmdj2hu7aqnni7j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUQgL7DMiJ7tuHLr9NKuvqCEQLxN60pO0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "443460084839-i02alggdl8nb7hekirmdj2hu7aqnni7j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
